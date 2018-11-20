@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="1.353"><testcase classname="test.index_test.S256Test" file="test/index_test.py" line="5" name="test_verify" time="0.4022665023803711"></testcase></testsuite>
